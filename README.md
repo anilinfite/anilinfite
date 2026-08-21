@@ -1,4 +1,10 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Anilkumar Biradar </h1>
+ =================================================================================================
+                
+<h3 align="center">A passionate developer from India 🇮🇳 </h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anilinfite&label=Profile%20views&color=0e75b6&style=flat" alt="anilinfite" /> </p>
+
 I'm currently working as a Software Engineer<br><br>I'm currently learning Software Development<br><br>Reach out to me at biradaranilkumar36@gmail.com<br><br>
 
 
