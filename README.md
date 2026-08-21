@@ -1,12 +1,17 @@
 <h1 align="center">Hi 👋, I'm Anilkumar Biradar </h1>
- ==============================================================================================
+ ============================================================================================
                 
 <h3 align="center">A passionate developer from India 🇮🇳 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anilinfite&label=Profile%20views&color=0e75b6&style=flat" alt="anilinfite" /> </p>
 
-I'm currently working as a Software Engineer<br><br>I'm currently learning Software Development<br><br>Reach out to me at biradaranilkumar36@gmail.com<br><br>
+~ 👨🏻‍💻 Tech
 
+~ 👨‍💻 I’m currently working as a Software Engineer at [**Algorithms365**](https://www.algorithms365.com)
+
+~ 🌱 I’m currently learning Software Development and Agentic AI 
+
+~ 📫 Reach out to me at biradaranilkumar36@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anilinfite/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:biradaranilkumar36@gmail.com) 
@@ -17,6 +22,5 @@ I'm currently working as a Software Engineer<br><br>I'm currently learning Softw
 ![](https://github-readme-stats.shion.dev/api?username=anilinfite&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=anilinfite&theme=highcontrast&hide_border=false)<br/>
 
----
-[![](https://komarev.com/ghpvc/?username=anilinfite&icon=0&color=12)](https://visitcount.itsvg.in)
+
 
