@@ -10,7 +10,6 @@ I'm currently working as a Software Engineer<br><br>I'm currently learning Softw
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=anilinfite&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=anilinfite&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=anilinfite&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://komarev.com/ghpvc/?username=anilinfite&icon=0&color=12)](https://visitcount.itsvg.in)
